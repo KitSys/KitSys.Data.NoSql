@@ -1,0 +1,7 @@
+contact_links:
+    - name: Feature request
+      url: https://github.com/orgs/KitSys/discussions/categories/KitSys.Data.NoSql
+      about: Propose an enhancement at discussions.
+    - name: Support
+      url: https://kitsys.co
+      about: Professional support for the open source innovation.
